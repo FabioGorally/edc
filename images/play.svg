@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="67px" viewBox="0 0 67 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>play-large</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-global-06-music-player-0768-copy" transform="translate(-351.000000, -215.000000)">
+            <g id="play-large" transform="translate(352.000000, 216.000000)">
+                <circle id="Oval" stroke="#4C4C4C" stroke-width="2" cx="32.5" cy="32.5" r="32.5"></circle>
+                <polygon id="Triangle" fill="#FFFFFF" points="45 33 26 46 26 20"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
