@@ -1036,7 +1036,7 @@ html .atlanta-background p.atlanta-powered-by {
     padding-top: 2px;
   }
   .global-navbar .button {
-    font-size: 0.875rem;
+    font-size: 1.2rem;
     height: 50px;
     padding-left: 25px;
     padding-right: 25px;
@@ -8477,6 +8477,7 @@ body::after {
 .buy-now_btn {
     display: flex;
     font-size: 28px;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
 }
